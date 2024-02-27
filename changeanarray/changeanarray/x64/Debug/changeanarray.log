@@ -1,0 +1,33 @@
+﻿Сборка начата 07.12.2023 17:53:41.
+Уровень детализации журнала: Normal.     1>Проект "C:\Users\Manmade\Desktop\ОАИП\Код\changeanarray\changeanarray\changeanarray.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "x64\Debug\changeanarray.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+         Обращение к "x64\Debug\changeanarray.tlog\unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\bin\HostX64\x64\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"x64\Debug\\" /Fd"x64\Debug\vc143.pdb" /external:W3 /Gd /TP /FC /errorReport:prompt changeanarray.cpp
+         changeanarray.cpp
+     1>C:\Users\Manmade\Desktop\ОАИП\Код\changeanarray\changeanarray\changeanarray.cpp(6,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+     1>C:\Users\Manmade\Desktop\ОАИП\Код\changeanarray\changeanarray\changeanarray.cpp(47,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+     1>C:\Users\Manmade\Desktop\ОАИП\Код\changeanarray\changeanarray\changeanarray.cpp(53,12): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+     1>C:\Users\Manmade\Desktop\ОАИП\Код\changeanarray\changeanarray\changeanarray.cpp(85,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+       Link:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\bin\HostX64\x64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Manmade\Desktop\ОАИП\Код\changeanarray\x64\Debug\changeanarray.exe" /INCREMENTAL /ILK:"x64\Debug\changeanarray.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Manmade\Desktop\ОАИП\Код\changeanarray\x64\Debug\changeanarray.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Manmade\Desktop\ОАИП\Код\changeanarray\x64\Debug\changeanarray.lib" /MACHINE:X64 x64\Debug\changeanarray.obj
+         changeanarray.vcxproj -> C:\Users\Manmade\Desktop\ОАИП\Код\changeanarray\x64\Debug\changeanarray.exe
+       FinalizeBuildStatus:
+         Файл "x64\Debug\changeanarray.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "x64\Debug\changeanarray.tlog\changeanarray.lastbuildstate".
+     1>Сборка проекта "C:\Users\Manmade\Desktop\ОАИП\Код\changeanarray\changeanarray\changeanarray.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "C:\Users\Manmade\Desktop\ОАИП\Код\changeanarray\changeanarray\changeanarray.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         C:\Users\Manmade\Desktop\ОАИП\Код\changeanarray\changeanarray\changeanarray.cpp(6,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+         C:\Users\Manmade\Desktop\ОАИП\Код\changeanarray\changeanarray\changeanarray.cpp(47,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+         C:\Users\Manmade\Desktop\ОАИП\Код\changeanarray\changeanarray\changeanarray.cpp(53,12): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+         C:\Users\Manmade\Desktop\ОАИП\Код\changeanarray\changeanarray\changeanarray.cpp(85,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+
+    Предупреждений: 4
+    Ошибок: 0
+
+Прошло времени 00:00:01.12

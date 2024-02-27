@@ -1,0 +1,21 @@
+﻿Сборка начата 13.10.2023 13:52:03.
+Уровень детализации журнала: Normal.     1>Проект "C:\Users\Manmade\Desktop\ОАИП\Код\lab7\Var12.2\Var12.2.vcxproj" в узле 2 (целевые объекты ClCompile).
+     1>InitializeBuildStatus:
+         Создание "x64\Debug\Var12.2.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+         Обращение к "x64\Debug\Var12.2.tlog\unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\bin\HostX64\x64\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"x64\Debug\\" /Fd"x64\Debug\vc143.pdb" /external:W3 /Gd /TP /FC /errorReport:prompt Var12.2.cpp
+         Var12.2.cpp
+     1>C:\Users\Manmade\Desktop\ОАИП\Код\lab7\Var12.2\Var12.2.cpp(16,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+     1>Сборка проекта "C:\Users\Manmade\Desktop\ОАИП\Код\lab7\Var12.2\Var12.2.vcxproj" завершена (целевые объекты ClCompile).
+
+Сборка успешно завершена.
+
+       "C:\Users\Manmade\Desktop\ОАИП\Код\lab7\Var12.2\Var12.2.vcxproj" (целевой объект ClCompile ) (1) ->
+       (Целевой объект ClCompile) -> 
+         C:\Users\Manmade\Desktop\ОАИП\Код\lab7\Var12.2\Var12.2.cpp(16,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+
+    Предупреждений: 1
+    Ошибок: 0
+
+Прошло времени 00:00:00.87
